@@ -1,4 +1,7 @@
 # HTTP-server
+A web server that responds to chosen HTTP requests adequately (as specified in the official documentation of the HTTP protocol). Implemented in C using sockets from the standard library. Full specification (in polish) below.
+
+(Specyfikacja zadania z kursu Sieci Komputerowe - MIMUW)
 Zadanie polega na napisaniu prostego serwera protokołu HTTP, z wąskim zakresem obsługiwanego wycinka specyfikacji protokołu HTTP/1.1 oraz specyficznym zachowaniem w przypadku niedostępności zasobu żądanego przez klienta.
 
 Program serwera będzie uruchamiany następująco:
