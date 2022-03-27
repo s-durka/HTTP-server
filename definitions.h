@@ -1,0 +1,8 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define BUFFER_SIZE   1000
+#define QUEUE_LENGTH     5
+#define MAX_STR_LEN 8192 //2^13
+
+#endif //DEFINITIONS_H
